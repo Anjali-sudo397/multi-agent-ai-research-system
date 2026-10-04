@@ -1,1 +1,8 @@
 .env
+.env
+.venv/
+__pycache__/
+*.pyc
+.streamlit/
+documents/*
+!documents/.gitkeep
